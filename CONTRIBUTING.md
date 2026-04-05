@@ -14,7 +14,7 @@ Thank you for your interest in contributing! This guide will help you get set up
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/alirezasoltani/simurgh-dns.git
+git clone https://github.com/AlirezaSoltaniJazi/simurgh-dns.git
 cd simurgh-dns
 ```
 

@@ -43,9 +43,9 @@ dev = [
 simurgh-dns = "simurgh_dns.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/alirezasoltani/simurgh-dns"
-Repository = "https://github.com/alirezasoltani/simurgh-dns"
-Issues = "https://github.com/alirezasoltani/simurgh-dns/issues"
+Homepage = "https://github.com/AlirezaSoltaniJazi/simurgh-dns"
+Repository = "https://github.com/AlirezaSoltaniJazi/simurgh-dns"
+Issues = "https://github.com/AlirezaSoltaniJazi/simurgh-dns/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/simurgh_dns"]

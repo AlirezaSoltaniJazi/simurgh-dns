@@ -4,7 +4,7 @@
 
 **Alireza Soltani**
 
-- GitHub: [@alirezasoltani](https://github.com/alirezasoltani)
+- GitHub: [@AlirezaSoltaniJazi](https://github.com/AlirezaSoltaniJazi)
 - Role: Primary maintainer and creator
 
 ## Responsibilities
