@@ -2,10 +2,6 @@
 
 import asyncio
 from dataclasses import dataclass, field
-from pathlib import Path
-
-from simurgh.models import BaseResult
-
 
 # ---------------------------------------------------------------------------
 # Constants
