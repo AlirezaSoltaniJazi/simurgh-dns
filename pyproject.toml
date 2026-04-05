@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "simurgh-dns"
-version = "0.1.0"
+version = "0.1.1"
 description = "A cross-platform CLI tool to benchmark public DNS servers and set the fastest one"
 readme = "README.md"
 license = { text = "MIT" }
